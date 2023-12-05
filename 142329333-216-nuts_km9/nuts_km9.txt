@@ -1,0 +1,12 @@
+﻿"Symbol";"Value";"Unit";
+"OUTER_DIAMETER";"65";"";
+"REFERENCE";"KM9";"";
+"INNER_DIAMETER";"45";"";
+"TraceParts.PartTitle";"KM Lock nuts with inner diameter M45x1,5, KM9";"";
+"TraceParts.InstanceId";"33-10012022-059304KJ53JRNPTI0IQXZJH21LNGZ9";"";
+"THREAD";"M45x1,5";"";
+"TraceParts.PartNumber";"33-10012022-059304";"";
+"SUPPLIER";"ComTech AB";"";
+"DESIGN";"KM Lock nuts with inner diameter M45x1,5, KM9";"";
+"TraceParts.PartVersion";"1.1.6";"";
+"TraceParts.PartLanguage";"en";"";

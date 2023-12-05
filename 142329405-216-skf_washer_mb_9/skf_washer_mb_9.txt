@@ -1,0 +1,11 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-05052017-112546";"";
+"REFERENCE";"MB 9";"";
+"TraceParts.PartVersion";"1.2.2";"";
+"TraceParts.InstanceId";"10-05052017-11254693SWLRVBU8X1W34EC3NE6A2UD";"";
+"TraceParts.PartTitle";"MB(L) lock washers";"";
+"SUPPLIER";"SKF";"";
+"DESIGN";"MB(L) lock washers, Bore Ø 45 mm, Outside Ø 69 mm, Thickness 1.25 mm";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"MASS";"0.015";"";
